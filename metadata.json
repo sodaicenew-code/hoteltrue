@@ -1,0 +1,8 @@
+{
+  "name": "Remix StayPulse Analytics",
+  "description": "Executive hotel booking and seasonality yield analytics with AI prediction models",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
